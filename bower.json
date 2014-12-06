@@ -1,0 +1,43 @@
+{
+  "name": "programmaster",
+  "version": "0.0.0",
+  "homepage": "https://github.com/GerasimenkoAlexander/programmaster",
+  "authors": [
+    "GerasimenkoAlexander <gerasimenkoalexanderua@gmail.com>"
+  ],
+  "description": "Learn programming",
+  "main": "public/index.php",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "Programming",
+    "PHP",
+    "JS",
+    "Noda",
+    "Ruby",
+    "Python",
+    "HTML",
+    "CSS"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.1",
+    "angular": "~1.3.5",
+    "angular-route": "~1.3.5",
+    "angular-resource": "~1.3.5",
+    "angular-sortable-view": "~0.0.11",
+    "angular-contenteditable": "~0.3.7",
+    "ngUpload": "~0.5.11",
+    "d3": "~3.4.13",
+    "snap.svg": "~0.3.0"
+  }
+}
